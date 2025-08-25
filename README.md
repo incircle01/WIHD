@@ -7,6 +7,10 @@ A simulation project for a 12-actuator drone featuring:
 - 4 tilt servos
 - 4 flare servos
 
+## Simulation Structure
+<img width="1972" height="1095" alt="KakaoTalk_20250814_162350736" src="https://github.com/user-attachments/assets/70d5f695-e329-49dd-be8e-d8e2fbe997e5" />
+
+
 This project uses **ROS 2 Humble** and **Gazebo Classic** for simulation and visualization of the morphing drone dynamics.
 
 ## Dependencies
