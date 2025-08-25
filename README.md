@@ -76,10 +76,11 @@ This script installs essential dependencies for using **ROS 2 (Humble)** with **
    ros2 topic pub /motor_fail std_msgs/msg/Int32 "{data: 1}"
    ```
 ### Small Gap Passing(matlab)
-![제목 없음](https://github.com/user-attachments/assets/3037f21c-05d4-496c-8fd8-ed92e114ae3a)
+![ezgif-232945de83ba52](https://github.com/user-attachments/assets/0321cdfc-0a8b-4bf8-a2a3-b9c9816516ee)
 
 ### Flight recovery after main motor failure(matlab)
-![제목 없음 (1)](https://github.com/user-attachments/assets/356a8263-5ce3-4ed8-8ce4-39aab4aa7461)
+![ezgif-23e7b4b0f184f7](https://github.com/user-attachments/assets/bbf31fc0-f6bb-49b3-a913-7409ea3fcb4d)
+
 
 ### Flight recovery after main motor failure(Gazebo)
 ![새로운 프로젝트](https://github.com/user-attachments/assets/2aceca7f-54ab-496e-b35e-f2a901c88d0a)
