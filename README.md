@@ -1,4 +1,5 @@
 # Morphing-Drone-sim
+<img width="511" height="256" alt="image" src="https://github.com/user-attachments/assets/55a8721c-7364-496a-ad90-50fe4e10a01b" />
 
 A simulation project for a 12-actuator drone featuring:
 - 4 main motors
