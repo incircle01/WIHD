@@ -84,3 +84,11 @@ This script installs essential dependencies for using **ROS 2 (Humble)** with **
 
 ### Flight recovery after main motor failure(Gazebo)
 ![새로운 프로젝트](https://github.com/user-attachments/assets/2aceca7f-54ab-496e-b35e-f2a901c88d0a)
+
+### Youtube
+https://youtu.be/Sj3WPfR2m7s?si=NNqQVpsa4pOoUwik
+
+### Contact
+godstar1112@naver.com
+PROJECT by 정인영 (IN YOUNG JUNG)
+
