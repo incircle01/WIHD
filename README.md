@@ -89,6 +89,6 @@ This script installs essential dependencies for using **ROS 2 (Humble)** with **
 https://youtu.be/Sj3WPfR2m7s?si=NNqQVpsa4pOoUwik
 
 ### Contact
-godstar1112@naver.com
+ioubaba1234@gmail.com
 PROJECT by 정인영 (IN YOUNG JUNG)
 
